@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f68a59dc-62be-2b9d-0de4-eabeaff2838c
 resourcetype: Document
 title: Human Rights and Undocumented Immigrants in the United States
 uid: d378dda4-422a-4f79-f554-7ebbe2e51654
