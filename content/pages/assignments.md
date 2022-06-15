@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains details about course assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -19,4 +20,4 @@ The final paper for undergraduates will be a research paper not exceeding 15 pag
 
 ### Sample Student Work
 
-[Human Rights and Undocumented Immigrants in the United States (PDF)]({{< baseurl >}}/resources/mit11_164f15_humanrights) (Courtesy of an MIT student. Used with permission.)
+{{% resource_link d378dda4-422a-4f79-f554-7ebbe2e51654 "Human Rights and Undocumented Immigrants in the United States (PDF)" %}} (Courtesy of an MIT student. Used with permission.)
