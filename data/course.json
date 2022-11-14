@@ -2,7 +2,8 @@
   "term": "Fall",
   "year": "2015",
   "level": [
-    "Undergraduate"
+    "Undergraduate",
+    "Graduate"
   ],
   "topics": [
     [
@@ -52,6 +53,7 @@
   "learning_resource_types": [
     "Written Assignments with Examples"
   ],
-  "site_uid": "8e2b8ca4-473a-4777-9ee8-8c9893c6069a",
+  "site_uid": "802cb37d-d4fb-4e39-b1d9-bce160e8ce30",
+  "short_id": "11.164-fall-2015",
   "title": "Course Metadata"
 }
