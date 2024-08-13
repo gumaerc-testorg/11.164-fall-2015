@@ -137,11 +137,11 @@ Luban, David. Chapters 1 and 2 in *Torture, Power, and Law*. Cambridge Universit
 
 \[DH\] Satterthwaite, Margaret. "The Story of *El Masri v. Tenet*: Human Rights and Humanitarian Law in the "War on Terror"."
 
-Report of the ["Senate Select Committee on Intelligence (CIA Torture Report)." (PDF - 1.6MB)](http://www.feinstein.senate.gov/public/index.cfm/files/serve?File_id=a992171e-fd27-47bb-8917-5ebe98c72764&SK=04753BC866283C0F5913D7E1A24FA851) 2014, pp. 1–19 (Findings and Conclusions).
+Report of the ["Senate Select Committee on Intelligence (CIA Torture Report)." (PDF - 1.6MB)](https://www.intelligence.senate.gov/sites/default/files/publications/CRPT-113srpt288.pdf) 2014, pp. 1–19 (Findings and Conclusions).
 
 ### Recommended
 
-Alston, Philip. ["The CIA and Targetted Killings beyond borders." (PDF)](https://www.law.upenn.edu/institutes/cerl/conferences/targetedkilling/papers/AlstonCIABeyondBorders.pdf) *New York University School of Law Public Law and Legal Theory Research Working Paper* 11–64 (2011).
+Alston, Philip. ["The CIA and Targeted Killings beyond Borders." (PDF)](https://www.law.upenn.edu/institutes/cerl/conferences/targetedkilling/papers/AlstonCIABeyondBorders.pdf) *New York University School of Law Public Law and Legal Theory Research Working Paper* 11–64 (2011).
 
 "[The Legal Prohibition Against Torture](https://www.hrw.org/news/2003/03/11/legal-prohibition-against-torture)." Human Rights Watch, 2003.
 
