@@ -32,11 +32,11 @@ The course will be based on readings from three main texts (see below) and sever
 
 ### Required Texts
 
-Donnelly, Jack. _Universal Human Rights in Theory & Practice_. 3rd ed. Cornell University Press, 2013. ISBN: 9780801477706. \[Preview with [Google Books](http://books.google.com/books?id=3gVCY1P7e4MC&pg=PAfrontcover)\]
+Donnelly, Jack. _Universal Human Rights in Theory & Practice_. 3rd ed. Cornell University Press, 2013. ISBN: 9780801477706. \[Preview with {{% resource_link "187b63b2-3774-4735-8c9f-6ed7928fe287" "Google Books" %}}\]
 
 Hurwitz, Deena, Margaret Satherthwaite, and Douglas Ford. _Human Rights Advocacy Stories_. Foundation Press, 2008. ISBN: 9781599411996.
 
-Rajagopal, Balakrishnan. _International Law from Below_. Cambridge University Press, 2003. ISBN: 9780521016711. \[Preview with [Google Books](http://books.google.com/books?id=k0Xv2IFGCAoC&pg=PAfrontcover)\]
+Rajagopal, Balakrishnan. _International Law from Below_. Cambridge University Press, 2003. ISBN: 9780521016711. \[Preview with {{% resource_link "c8d49a0d-f07c-49fe-a082-837359e1052c" "Google Books" %}}\]
 
 ### Recommended Text
 
